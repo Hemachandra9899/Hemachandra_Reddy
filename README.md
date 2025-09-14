@@ -26,13 +26,7 @@ solving skills with experience in debugging, code optimization, and collaborativ
 
 ---
 
-### 📊 GitHub Stats
 
-![Hemachandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemachandra9899\&show_icons=true\&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemachandra9899\&layout=compact\&theme=radical)
-
----
 
 ### 🚀 Featured Projects
 
