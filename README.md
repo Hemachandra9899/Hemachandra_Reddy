@@ -1,49 +1,54 @@
-# Hi, I'm Hemachandra Reddy 👋
+![header]([https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&fontAlign=49)])
 
-**`Full-Stack Developer | Web3 Builder | Problem Solver`**
-
-Entry-level IT professional with hands-on experience in full-stack web development, test automa-
-tion, and deployment workflows. Skilled in React, Tailwind CSS, JavaScript, Node.js, Docker,
-GitHub Actions, and SQL/C++/Python. Experienced in designing responsive UIs, automating test
-scripts, optimizing CI/CD pipelines, and delivering scalable, high-quality applications. Strong problem-
-solving skills with experience in debugging, code optimization, and collaborative software projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&pause=1000&color=000000&width=435&lines=Hi+!+I+Am+Hemachandra+Reddy;A+Software+Developer)](https://git.io/typing-svg)
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="center">
+I'am Hemachandra Reddy
+Full-Stack Developer | DSA |CPP, Python, FastAPI | React, PostgreSQL, Docker 
+</h3>
 
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br />
+## About Me
 
----
+Full-Stack Developer with a strong backend focus, building **reliable, high-performance systems** using **Python**, **FastAPI**, complemented by **React** on the frontend.  
+I emphasize **clean architecture**, **scalability**, and **production-ready deployment**, and I’m actively building a portfolio aimed at landing my **first professional full-stack or backend-oriented role**.
 
+## What I Build
 
+- **RESTful APIs** using Nodejs and FastAPI  
+- **ORM-based data access layers** using SQLAlchemy and Prisma 
+- **Full-stack applications** with a Javascript Nodejs backend and **React** frontend  
+- **Database-driven systems** using PostgreSQL (schema design, migrations, optimization)  
+- **Containerized environments** with Docker and Docker Compose  
+- **CI/CD pipelines** using GitHub Actions  
+- **Linux-based services** and environment configuration  
 
-### 🚀 Featured Projects
+## Tech Stack & Expertise
 
-#### 🔸 SimpleWeb3
+- **Backend:** Python, FastAPI,Prisma, SQLAlchemy, Pydantic  
+- **Frontend:** React, TypeScript (fundamentals)  
+- **Databases:** PostgreSQL  
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
+- **Architecture:** Modular design, background tasks, caching & queues (Redis)  
+- **Tooling:** Git, GitHub, Postman
 
-* Web3 Onchain Profile Builder + Wallet Integrations
-* Tech: React, Tailwind, Wagmi, Ethers.js
-* Repo: [SimpleWeb3](https://github.com/Hemachandra9899/simpleweb3)
+## Contact Info:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psatomas@gmail.com)
 
----
+## &nbsp;GitHub Stats
 
-### 📬 Contact
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&icon_color=64748B&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&border_radius=15"/>
+</div>
 
-* 📧 Email: [pottingari@gmail.com](mailto:pottingari@gmail.com)
-* 📱 Phone: +91 6305984164
-* 🔗 GitHub: [Hemachandra9899](https://github.com/Hemachandra9899)
-* 💼 LinkedIn: [Your LinkedIn Here](#)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0F172A&color=94A3B8&line=1E293B&point=94A3B8&area=true&area_color=1E293B&hide_border=true)](https://github.com/psatomas)
 
----
-⚡ *“Keep building. Keep solving. Keep learning.”*
+<p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=psatomas" alt="psatomas" /> </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8&section=footer&reversal=false&animation=twinkling)
