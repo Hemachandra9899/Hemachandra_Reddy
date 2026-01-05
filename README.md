@@ -1,4 +1,5 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&fontAlign=49)])
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&fontAlign=49)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&pause=1000&color=000000&width=435&lines=Hi+!+I+Am+Hemachandra+Reddy;A+Software+Developer)](https://git.io/typing-svg)
 
